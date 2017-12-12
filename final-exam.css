@@ -22,3 +22,25 @@ body {
   width: 66.66%;
   padding: 5px;
 }
+a {
+  color: #8D4553;
+}
+h3{
+  font-weight: normal;
+  padding-bottom: 2px;
+  font-family: Georgia;
+}
+h2{
+  margin-top: 0px;
+  font-size: 24px;
+  font-style: italic;
+  font-family: Georgia;
+}
+h1{
+  font-family: Georgia;
+}
+.source{
+  border-bottom: 5px solid #E8E8E8;
+  margin-bottom: 35px;
+  padding-bottom: 20px;
+}
